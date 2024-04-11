@@ -1,0 +1,3 @@
+20240411	14:38:31	ade77ca2-a8d3-4d1b-9cdb-6e2a7e41d1b1	/new-page.html	GET
+20240411	14:38:31	e76235d8-58a4-466a-81f5-4bfdc6d6c8d0	/css/style.css	GET
+20240411	14:38:31	943f1635-5a54-47d2-85e3-0c232c07a857	/img/myself%20portrait.jpg	GET
