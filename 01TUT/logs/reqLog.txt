@@ -1,3 +1,85 @@
 20240411	14:38:31	ade77ca2-a8d3-4d1b-9cdb-6e2a7e41d1b1	/new-page.html	GET
 20240411	14:38:31	e76235d8-58a4-466a-81f5-4bfdc6d6c8d0	/css/style.css	GET
 20240411	14:38:31	943f1635-5a54-47d2-85e3-0c232c07a857	/img/myself%20portrait.jpg	GET
+20240411	15:27:52	b9f3028c-4a0f-48b4-b8fc-12dbec05f786	/	GET
+20240411	15:27:52	a683a894-5cdd-4fe5-99bc-7d33cae82060	/css/style.css	GET
+20240411	15:27:54	f6c173e3-3ab3-4910-bfa9-396a3441f521	/	GET
+20240411	15:27:54	187b158e-42f1-4a4c-bc8b-9feb0a8da75a	/css/style.css	GET
+20240411	15:34:50	2d0b1b51-39e0-452c-b9af-6224637976a4	/new-page.html	GET
+20240411	15:34:50	68aacb87-3230-4796-bb5b-5988a83d88ce	/css/style.css	GET
+20240411	15:34:50	eb8cc2f8-623b-41d1-bc12-fa3640de49e9	/img/myself%20portrait.jpg	GET
+20240411	15:44:33	e0fb84b1-7d93-40e5-bf66-38862dca9254	/old-page.html	GET
+20240411	15:44:33	06d071d9-2097-4593-b909-d1ba37799dd6	/new-page.html	GET
+20240411	15:44:33	073c8420-5ee8-4a15-a435-03ff3f2498c2	/css/style.css	GET
+20240411	15:44:33	38098b66-8627-463c-85af-1ba981b9349c	/img/myself%20portrait.jpg	GET
+20240411	16:25:10	0cca3b1d-7183-4c16-8d5d-80e042b989e3	/chain	GET
+20240411	16:25:10	c69d8825-6856-497a-a7bf-ddf44c58fddf	/css/style.css	GET
+20240411	16:25:40	d67ff478-b287-411d-848c-ddef48313061	/chain	GET
+20240411	16:25:40	d192f13f-68bd-40ab-8400-1837d2b04e78	/css/style.css	GET
+20240413	11:34:57	d2df716d-91f0-4f8b-82ca-4c1943617b50	GET	undefined	/
+20240413	11:38:20	83d81fdd-7565-4b71-9549-2e1972fbfa29	GET	undefined	/
+20240413	11:38:20	6a514a8c-9323-4485-84c4-26fb00ce1ee9	GET	undefined	/css/style.css
+20240413	11:47:20	09137dbd-5e8f-46ae-8413-9a112a0514dd	GET	undefined	/subdir
+20240413	11:48:49	bd0b1acc-3153-47e3-b1ca-849dbb3ee949	GET	undefined	/subdir/dave
+20240413	11:48:49	5e032f7e-4af1-4983-b658-741a2929ab30	GET	undefined	/subdir/css/style.css
+20240413	11:48:57	257bb801-2eac-4ed2-bf96-25a8da82b53b	GET	undefined	/subdir/test
+20240413	11:51:32	c3d3a916-746d-4168-b4d3-5a3b295f2f88	GET	undefined	/subdir/test
+20240413	11:51:36	8b8bcdb5-a00e-4392-8c9d-55f1615b9a70	GET	undefined	/
+20240413	11:51:36	7ca8ad7e-3495-46f6-b9ed-cebeb1427788	GET	undefined	/
+20240413	11:51:36	0a8ac286-6148-4e36-a0ad-86e3f87211d7	GET	undefined	/css/style.css
+20240413	11:53:39	2573873f-8efe-4539-949f-6e4554f55b67	GET	undefined	/
+20240413	11:55:56	ceb33831-e525-4228-a6e5-b7e289c87a9e	GET	undefined	/
+20240413	11:55:57	6c95428a-1bf5-4457-b834-a1493b59afad	GET	undefined	/
+20240413	11:56:08	3ceda9a3-dc66-45d2-8c7d-4e4ac058a579	GET	undefined	/
+20240413	11:56:09	435fbf1b-214a-415a-9f4a-03f66baaabd3	GET	undefined	/
+20240413	12:00:17	7fa1527d-62ab-4e70-9c13-5dc7f1e2ddf1	GET	undefined	/
+20240413	12:00:18	51262da7-b835-4ea6-bd15-fb3f66a98c8a	GET	undefined	/
+20240413	12:44:47	5a78288b-789a-465c-a01f-07e192953ed0	GET	undefined	/
+20240413	12:44:47	c9186f77-0a64-4bd0-86c1-8a3b39d00fec	GET	undefined	/css/style.css
+20240413	12:45:42	eff8c0a8-7830-44f7-ace0-e59ad7936d06	GET	undefined	/
+20240413	12:45:43	1e6bfd55-45dd-4612-bd34-92712fe27ba5	GET	undefined	/css/style.css
+20240413	12:46:07	b8e666a3-3dbc-460f-b160-38bd96c4a00f	GET	undefined	/employees
+20240413	12:52:20	43bdfe74-25ec-489a-9d8d-9a66ef4094fa	POST	undefined	/employees
+20240413	12:57:07	fef64eef-611c-4c39-9402-81d9b7b74b18	POST	undefined	/employees
+20240413	13:07:29	161bc9c1-4b8c-4588-a936-843cffe24f69	PUT	undefined	/employees
+20240413	13:07:51	c84c10c1-f484-4e35-893f-3bb1ae3484cd	PUT	undefined	/employees
+20240413	13:08:35	7f9be818-898a-4313-9924-b1bef0f3638f	DELETE	undefined	/employees
+20240413	13:09:07	b2c64129-073c-4172-bdde-2c453240dd3c	GET	undefined	/employees/1
+20240413	15:34:05	458a9797-4911-4194-bc53-9de2daf2d96c	GET	undefined	/employees
+20240413	15:35:32	e1dc8f96-b477-4317-9cc3-27fe3c1260ff	POST	undefined	/employees
+20240413	15:36:29	bd530557-80a4-4fa4-a571-865c3c376584	PUT	undefined	/employees
+20240413	16:51:10	609181b6-dba0-4aa5-8929-0d1ffe3a0864	POST	undefined	/register
+20240414	12:36:42	df6de6c9-0832-457b-b971-8a1ef708ce43	POST	undefined	/register
+20240414	12:47:44	33723472-2090-445c-bb3f-c9ba6f0e1654	POST	undefined	/register
+20240414	12:52:53	7319ec86-29e4-47a7-979f-2054f98ec26d	POST	undefined	/register
+20240414	13:34:54	fc789447-e074-4e1b-a235-57f104f508e5	POST	undefined	/auth
+20240414	13:37:29	a6cc307b-1179-47f4-a81b-71d22c0ffb4e	POST	undefined	/auth
+20240414	13:37:48	d402b21a-ea65-4cf3-a393-7f2f388a4dc4	POST	undefined	/auth
+20240414	13:37:57	edd8b22d-9b02-4e65-b6a1-beaa2be8ad7e	POST	undefined	/register
+20240414	16:19:28	f2682be5-a092-45ae-a2a0-f20dabc9b7c4	POST	undefined	/auth
+20240414	16:25:31	8678a54d-4ef5-46d9-8819-6508168e9b68	POST	undefined	/auth
+20240414	16:27:12	9f76f14f-9257-437a-a695-264f62f012f6	GET	undefined	/employees
+20240414	16:27:42	d062a274-9bc0-4ea3-9540-9fd498b3f43e	POST	undefined	/auth
+20240414	16:28:15	cfdde9dc-2a39-4057-9153-575e1b304a6b	GET	undefined	/employees
+20240414	16:28:37	bb3137c4-03ac-4a9a-ae6c-cfecb6c416df	GET	undefined	/employees
+20240414	16:30:21	0221f400-3ba7-4e82-9f97-bf978c2cf0fa	GET	undefined	/employees
+20240414	16:36:33	c0bc89c6-ecdb-4a4e-8881-e871b38e5795	POST	undefined	/auth
+20240414	16:36:55	fae965a4-2f62-4950-a1c0-12b09641e989	GET	undefined	/employees
+20240414	16:39:37	9ad94677-71ba-4d9e-8864-18ee624a6c7e	GET	undefined	/employees
+20240414	16:39:47	c5b6cca7-af70-4fae-9ab6-ece446dc8fb6	GET	undefined	/employees
+20240414	17:20:29	94a548f4-88aa-4ed1-be9a-76632b009c01	POST	undefined	/auth
+20240414	17:23:08	84d3c80b-0652-4c2f-998d-29cae18249a9	GET	undefined	/refresh
+20240416	16:34:37	d363f760-31b4-47ec-94a2-5a6edeba8af4	POST	undefined	/auth
+20240416	16:35:05	9a558b11-4d67-43b2-8b98-1de81a30ad5f	GET	undefined	/logout
+20240416	16:38:04	f26d97db-0555-48c1-96ac-d671a3e91191	GET	undefined	/refresh
+20240416	17:05:19	9dbad4cd-0c50-47e5-ba98-ae8f2fdbf6c9	POST	undefined	/register
+20240416	17:05:54	dd1b1f88-5b85-412c-b70b-52c66225abb0	POST	undefined	/register
+20240416	17:06:16	b0f21bda-da1e-4b34-872c-d43d15177456	POST	undefined	/register
+20240416	17:06:18	f1e6879b-0089-409e-9cd0-30ad0a879e69	POST	undefined	/register
+20240416	17:06:38	8eb6fc43-2452-4634-90b1-24f1dad2d052	PUT	undefined	/register
+20240416	18:30:54	eafa7481-eb06-4203-b7bb-cada06adb4c8	POST	undefined	/auth
+20240416	18:31:53	356821c7-28ca-4ab3-bd17-8b77913c5c2f	POST	undefined	/auth
+20240416	18:32:47	58b1a2b1-e340-4322-939f-6b35344eb95d	GET	undefined	/employees
+20240417	13:06:53	a06acc09-f3e5-42f5-8375-d6b25082fe29	POST	undefined	/register
+20240417	13:07:30	46600ba4-1f98-41fe-ab50-22d8dae86717	POST	undefined	/register
+20240417	13:25:48	f1c143c2-941b-4182-b798-0a4d23b5187b	POST	undefined	/register

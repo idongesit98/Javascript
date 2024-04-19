@@ -1,0 +1,12 @@
+20240413	11:26:33	292e98c8-e2fc-4fea-89a4-287d629e0ad7	TypeError: logEvents is not a function
+20240413	11:34:57	70487f70-17d5-476c-85de-a60402807ff4	Error: ENOENT: no such file or directory, stat 'C:\Users\HP\Documents\Javascript\01TUT\routes\views\index.html'
+20240413	11:53:39	321e3037-2f08-45e8-a9ae-8be50d72cca2	Error: ENOENT: no such file or directory, stat 'C:\Users\HP\Documents\Javascript\01TUT\routes\views\index.html'
+20240413	11:55:56	ca940dac-a39f-4c93-b20a-51f5399864e6	Error: ENOENT: no such file or directory, stat 'C:\Users\HP\Documents\Javascript\01TUT\routes\views\index.html'
+20240413	11:55:57	f847bdfb-75d9-444b-a7a1-e8df94cb81cb	Error: ENOENT: no such file or directory, stat 'C:\Users\HP\Documents\Javascript\01TUT\routes\views\index.html'
+20240413	11:56:08	acf26ca7-2363-4cc0-a258-f9fddb7c4f35	Error: ENOENT: no such file or directory, stat 'C:\Users\HP\Documents\Javascript\01TUT\routes\views\index.html'
+20240413	11:56:09	20ecf784-5d72-495b-96a1-e0d537712049	Error: ENOENT: no such file or directory, stat 'C:\Users\HP\Documents\Javascript\01TUT\routes\views\index.html'
+20240413	12:00:17	d40eb591-c24f-4d2c-afbb-6af2b399f090	Error: ENOENT: no such file or directory, stat 'C:\Users\HP\Documents\Javascript\01TUT\routes\views\index.html'
+20240413	12:00:18	ee248cb2-c2bd-4bb3-9c8b-129f61c15ad9	Error: ENOENT: no such file or directory, stat 'C:\Users\HP\Documents\Javascript\01TUT\routes\views\index.html'
+20240413	12:52:20	ff835a0e-7e20-4502-b7c8-ced383422ce2	ReferenceError: req is not defined
+20240416	17:05:55	491f0514-cbc0-4da9-a068-813e19d288e4	SyntaxError: Unexpected token 'A', ..."password":AgR534H
+}" is not valid JSON
